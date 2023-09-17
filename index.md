@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://mianyi2001.github.io/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://mianyi2001.github.io/mianyi.jpg" class="floatpic" width="360" height="480">
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
