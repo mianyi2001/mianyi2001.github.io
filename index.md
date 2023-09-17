@@ -12,7 +12,7 @@ layout: page
 
 Here is **Mianyi Xiang (向勉益)**.
 
-I am a graduate student majoring in **Instrumentation Science and Technology** at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/), advised by [Prof. Daxiang Cui](https://ssse.sjtu.edu.cn/Data/Info/379). Prior to this, I graduated from the College of Instrumentation Science and Optoelectronics at Hefei University of Technology[(HFUT)](http://www.hfut.edu.cn/)，under the guidance of [Prof. Qiangxian Huang](http://yqkx.hfut.edu.cn/2017/0504/c13102a266336/page.htm) and Associate Professor [Liang Huang](http://yqkx.hfut.edu.cn/2017/0504/c13102a266336/page.htm). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am a graduate student majoring in **Instrumentation Science and Technology** at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/), advised by [Prof. Daxiang Cui](https://ssse.sjtu.edu.cn/Data/Info/379). Prior to this, I graduated from the College of Instrumentation Science and Optoelectronics at Hefei University of Technology[(HFUT)](http://www.hfut.edu.cn/)，under the guidance of [Prof. Qiangxian Huang](http://yqkx.hfut.edu.cn/2017/0504/c13102a266336/page.htm) and Associate Professor [Liang Huang](http://yqkx.hfut.edu.cn/2017/0504/c13102a266336/page.htm). 
 
 <br>
 
