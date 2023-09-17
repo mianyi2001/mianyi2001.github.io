@@ -8,18 +8,14 @@ layout: page
 
 Here is **Mianyi Xiang (向勉益)**.
 
-I am a graduate student majoring in **Instrumentation Science and Technology** at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/), advised by [Prof. Daxiang Cui]([https://www.researchgate.net/profile/Zhezhuang-Xu](https://ssse.sjtu.edu.cn/Data/Info/379)). Prior to this, I graduated from the College of Instrumentation Science and Optoelectronics at Hefei University of Technology[HFUT](http://www.hfut.edu.cn/)，under the guidance of [Prof. Qianxian Huang]([http://yqkx.hfut.edu.cn/2017/0504/c13102a266336/page.htm] and Associate Professor [Liang Huang]([http://yqkx.hfut.edu.cn/2017/0504/c13102a266336/page.htm]. Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am a graduate student majoring in **Instrumentation Science and Technology** at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/), advised by [Prof. Daxiang Cui](https://ssse.sjtu.edu.cn/Data/Info/379). Prior to this, I graduated from the College of Instrumentation Science and Optoelectronics at Hefei University of Technology[(HFUT)](http://www.hfut.edu.cn/)，under the guidance of [Prof. Qiangxian Huang](http://yqkx.hfut.edu.cn/2017/0504/c13102a266336/page.htm) and Associate Professor [Liang Huang](http://yqkx.hfut.edu.cn/2017/0504/c13102a266336/page.htm). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+- **Sep 2019 - June 2023:** Hefei University of Technology (HFUT)
+- **Sep 2023 - May 2026:** Shanghai Jiaotong University (SJTU)
 
 <br>
 
