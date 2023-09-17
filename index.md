@@ -4,7 +4,11 @@ layout: page
 
 # About Me
 
+<br>
+
 <img src="https://mianyi2001.github.io/mianyi.jpg" class="floatpic" width="360" height="480">
+
+<br>
 
 Here is **Mianyi Xiang (向勉益)**.
 
