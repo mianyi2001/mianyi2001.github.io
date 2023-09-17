@@ -27,11 +27,11 @@ I am a graduate student majoring in **Instrumentation Science and Technology** a
 
 ## Research Interests
 
-- A
-- B
-- C
+- Weak signal amplification
+- Artificial intelligence
+- Deep learning
 
-My current research focuses on . My interests are on the **M** and its applications in **I**. In a word, .  I wish to devote my talent to this meaningful cause and bring well-being to society.
+During my undergraduate studies, I focused on precision measurement, microfluidic resistivity particle detection, and weak signal amplification. Currently, my research findings are pending, and my interests include artificial intelligence and deep learning. 
 
 <br>
 
@@ -39,10 +39,5 @@ My current research focuses on . My interests are on the **M** and its applicati
 
 ## News and Updates
 
-- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**H
-- **May 2023：**H
-- **May 2023：**C
-- **Jan 2023：**O
-- **Jun 2022：**V [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- I [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+- **Sep 2023：** I was elected as the Class Life Committee member for M051.
+- **Aug 2023：** I have become a member of the backbone class of graduate students in the School of Electronics, Information and Electrical Engineering (SEIEE), Shanghai Jiaotong University.
