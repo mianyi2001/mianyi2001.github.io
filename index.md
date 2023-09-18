@@ -12,14 +12,14 @@ layout: page
 
 Here is **Mianyi Xiang (向勉益)**.
 
-I am a graduate student majoring in **Instrumentation Science and Technology** at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/), advised by [Prof. Daxiang Cui](https://ssse.sjtu.edu.cn/Data/Info/379). Prior to this, I graduated from the College of Instrumentation Science and Optoelectronics at Hefei University of Technology[(HFUT)](http://www.hfut.edu.cn/)，under the guidance of [Prof. Qiangxian Huang](http://yqkx.hfut.edu.cn/2017/0504/c13102a266336/page.htm) and Associate Professor [Liang Huang](http://yqkx.hfut.edu.cn/2017/0504/c13102a266336/page.htm). 
+I am a graduate student majoring in **Instrumentation Science and Technology** at [Shanghai Jiao Tong University(SJTU)](https://www.sjtu.edu.cn/), advised by [Prof. Daxiang Cui](https://ssse.sjtu.edu.cn/Data/Info/379). Prior to this, I graduated from the School of Instrument Science and Opto-electronics Engineering at [Hefei University of Technology(HFUT)](http://www.hfut.edu.cn/)，under the guidance of [Prof. Qiangxian Huang](http://yqkx.hfut.edu.cn/2017/0504/c13102a266336/page.htm) and Associate Professor [Liang Huang](http://yqkx.hfut.edu.cn/2021/0524/c13101a267120/page.htm). 
 
 <br>
 
 ## Academic Background
 
 - **Sep 2019 - June 2023:** Hefei University of Technology (HFUT)
-- **Sep 2023 - May 2026:** Shanghai Jiaotong University (SJTU)
+- **Sep 2023 - May 2026:** Shanghai Jiao Tong University (SJTU)
 
 <br>
 
@@ -40,4 +40,5 @@ During my undergraduate studies, I focused on precision measurement, microfluidi
 ## News and Updates
 
 - **Sep 2023：** I was elected as the Class Life Committee member for M051.
-- **Aug 2023：** I have become a member of the backbone class of graduate students in the School of Electronics, Information and Electrical Engineering (SEIEE), Shanghai Jiaotong University.
+- **Aug 2023：** I become a member of the backbone class of graduate students in the School of Electronics, Information and Electrical Engineering (SEIEE), Shanghai Jiao Tong University.
+- **May 2023：** I become an outstanding graduate of Hefei University of Technology in 2023.
