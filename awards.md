@@ -12,7 +12,7 @@ Lastest Update: 27th Aug 2023
 - August 2021：Scholarship for Science and Technology Activities of Hefei University of Technology(HFUT).<br>
 - August 2021：The Second-Class Academic Scholarship of Hefei University of Technology(HFUT).<br>
 - August 2020：Scholarship for Science and Technology Activities of Hefei University of Technology(HFUT).<br>
-- August 2020：The Second-Class Academic Scholarship of Hefei University of Technology(HFUT).<br>
+- August 2020：The First-Class Academic Scholarship of Hefei University of Technology(HFUT).<br>
 
 ## Competitions
 
