@@ -32,5 +32,5 @@ Lastest Update: 27th Aug 2023
 
 ## Services
 
-- Sep 2020 - Jun 2021：Hefei University of Technology (HFUT) KAB Entrepreneurship Club Officer.
-- Sep 2019 - Jun 2020：Hefei University of Technology (HFUT) KAB Entrepreneurship Club Minister.
+- Sep 2020 - Jun 2021：Hefei University of Technology (HFUT) KAB Entrepreneurship Club Minister.
+- Sep 2019 - Jun 2020：Hefei University of Technology (HFUT) KAB Entrepreneurship Club Officer.
