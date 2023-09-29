@@ -27,7 +27,7 @@ I am now a graduate student majoring in **Instrumentation Science and Technology
 
 ## Research Interests
 
-- Weak signal amplification
+- Gas Sensor/Electronic Nose
 - Artificial intelligence
 - Deep learning
 
@@ -39,6 +39,6 @@ During my undergraduate studies, I focused on precision measurement, microfluidi
 
 ## News and Updates
 
-- **Sep 2023：** I was elected as the Class Life Committee member for M051.
+- **Sep 2023：** I was elected as the Class Life Committee member for 23M051.
 - **Aug 2023：** I become a member of the backbone class of graduate students in the School of Electronics, Information and Electrical Engineering (SEIEE), Shanghai Jiao Tong University.
 - **May 2023：** I become an outstanding graduate of Hefei University of Technology in 2023.
