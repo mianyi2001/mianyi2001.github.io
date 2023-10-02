@@ -4,10 +4,8 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-<br>
-<br>
-
 # Hobbies
+<br>
 
 ## Sports
 
