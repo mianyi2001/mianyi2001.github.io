@@ -4,10 +4,11 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 27th Aug 2023
+Lastest Update: 27th May 2024
 
 ## Scholarships
 
+- August 2023：The Master's Second-Class Academic Scholarship of Shanghai Jiao Tong University(SJTU).<br>
 - August 2022：The Second-Class Academic Scholarship of Hefei University of Technology(HFUT).<br>
 - August 2021：Scholarship for Science and Technology Activities of Hefei University of Technology(HFUT).<br>
 - August 2021：The Second-Class Academic Scholarship of Hefei University of Technology(HFUT).<br>
