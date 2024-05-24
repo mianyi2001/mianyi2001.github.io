@@ -31,7 +31,7 @@ I am now a graduate student majoring in **Instrumentation Science and Technology
 - Artificial intelligence
 - Deep learning
 
-During my undergraduate studies, I focused on precision measurement, microfluidic resistivity particle detection, and weak signal amplification. Currently, my research findings are pending, and my interests include artificial intelligence and deep learning. 
+During my undergraduate studies, I focused on precision measurement, microfluidic resistivity particle detection, and weak signal amplification. During my master's studies, my research focused on the intersection of gas sensors, electronic noses, embedded systems, machine learning, and artificial intelligence. 
 
 <br>
 
@@ -39,6 +39,8 @@ During my undergraduate studies, I focused on precision measurement, microfluidi
 
 ## News and Updates
 
+- **Oct 2023：** I become an assistant at the Institute for Scientific and Technological Development at Shanghai Jiao Tong University.
+- **Oct 2023：** I was elected as a student delegate to the 35th Student Congress of Shanghai Jiao Tong University.
 - **Sep 2023：** I was elected as the Class Life Committee member for 23M051.
 - **Aug 2023：** I become a member of the backbone class of graduate students in the School of Electronics, Information and Electrical Engineering (SEIEE), Shanghai Jiao Tong University.
 - **May 2023：** I become an outstanding graduate of Hefei University of Technology in 2023.
