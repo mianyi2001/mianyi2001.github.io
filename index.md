@@ -39,7 +39,7 @@ During my undergraduate studies, I focused on precision measurement, microfluidi
 
 ## News and Updates
 
-- **Oct 2023：** I become an assistant at the Institute for Scientific and Technological Development at Shanghai Jiao Tong University.
+- **Oct 2023：** I become a student assistant at the Institute for Scientific and Technological Development at Shanghai Jiao Tong University.
 - **Oct 2023：** I was elected as a student delegate to the 35th Student Congress of Shanghai Jiao Tong University.
 - **Sep 2023：** I was elected as the Class Life Committee member for 23M051.
 - **Aug 2023：** I become a member of the backbone class of graduate students in the School of Electronics, Information and Electrical Engineering (SEIEE), Shanghai Jiao Tong University.
