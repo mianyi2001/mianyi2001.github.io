@@ -39,7 +39,8 @@ During my undergraduate studies, I focused on precision measurement, microfluidi
 
 ## News and Updates
 
-- **Sep 2024：** The paper I co-authored has been published in the SCI Q1 journal Sensors and Actuators: B. Chemical.
+- **Nov 2024：** The paper I co-authored has been published in the SCI Q1 journal *Applied Materials Today*.
+- **Sep 2024：** The paper I co-authored has been published in the SCI Q1 journal *Sensors and Actuators: B. Chemical*.
 - **Oct 2023：** I become a student assistant at the Institute for Scientific and Technological Development at Shanghai Jiao Tong University.
 - **Oct 2023：** I was elected as a student delegate to the 35th Student Congress of Shanghai Jiao Tong University.
 - **Sep 2023：** I was elected as the Class Life Committee member for 23M051.
